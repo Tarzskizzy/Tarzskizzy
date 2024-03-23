@@ -1,4 +1,4 @@
-# Olá, eu sou o Tarzskizzy !
+# Olá, eu sou o Kaleb Soares !
 #### Técnico em Desenvolvimento de Sistemas
 ____
 <div style="display:inline-block;"><br>
@@ -7,11 +7,15 @@ ____
 <img style = "align:center;" width = "60" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
 <img style = "align:center;" width = "60" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
 <img style = "align:center;" width = "60" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+<img style = "align:center;" width = "60" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
 <br></div>
 
 ____
+
 - 📕 Estudante autodidata
 - 🐧 Entusiasta Linux (Archcraft OS)
-- curte Livros de desenvolvimento pessoal
+  - procurando desenvolver projetos e aplicações para servidores.
+- 🎯 Atualmente estou criando projetos em linguagens de baixo Nível como C para aprimoramento nos meus conhecimentos em algoritmos.
+
 
 

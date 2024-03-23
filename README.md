@@ -8,8 +8,8 @@ ____
 <img style = "align:center;" width = "60" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
 <img style = "align:center;" width = "60" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
 <br></div>
-____
 
+____
 - 📕 Estudante autodidata
 - 🐧 Entusiasta Linux (Archcraft OS)
 - curte Livros de desenvolvimento pessoal

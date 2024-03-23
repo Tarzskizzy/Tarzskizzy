@@ -16,5 +16,7 @@ ____
   - procurando desenvolver projetos e aplicações para servidores.
 - 🎯 Atualmente estou criando projetos em linguagens de baixo Nível como C para aprimoramento nos meus conhecimentos em algoritmos.
 
+"Falar é fácil, me mostre o código." Torvals, Linus.
+
 
 

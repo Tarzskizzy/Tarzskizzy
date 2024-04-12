@@ -17,7 +17,7 @@ ____
 - 🎯 Atualmente estou trabalhando em projetos com linguagens de baixo Nível como C para aprimoramento nos meus conhecimentos em algoritmos.
 - 🌎 Espanhol básico-intermediário
 
-"Falar é fácil, me mostre o código." Torvals, Linus.
+"Falar é fácil, me mostre o código." **Torvals, Linus.**
 
 
 

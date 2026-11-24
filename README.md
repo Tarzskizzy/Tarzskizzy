@@ -9,7 +9,6 @@ ____
 
 - 📕 Estudante autodidata
 - 🐧 Entusiasta Linux
-  - procurando desenvolver projetos e aplicações para Dados e IA
 - 🌎 Espanhol básico-intermediário
 
 "Falar é fácil, me mostre o código." **Torvals, Linus.**
